@@ -39,7 +39,7 @@ html
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,java,python,aws,docker,kubernetes,jenkins,terraform,ansible,githubactions,git,github,nginx,mysql" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,aws,docker,kubernetes,jenkins,terraform,ansible,githubactions,git,github,nginx,mysql,kali" />
 
 </p>
 
