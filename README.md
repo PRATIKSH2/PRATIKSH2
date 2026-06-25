@@ -34,66 +34,30 @@ I enjoy building reliable systems, automating repetitive work, and continuously 
 ---
 
 
+```html
 ## 🛠️ Languages & Tools
 
-### 🐧 Operating System
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,java,python,aws,docker,kubernetes,jenkins,terraform,ansible,githubactions,git,github,nginx,mysql" />
+
 </p>
 
-### 💻 Programming & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=bash" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45"/>
+
 </p>
 
-### ☁️ Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
+<p align="center">
+
+🛡️ <b>Cyber Security:</b> Kali Linux • Nessus • Nmap • Sherlock (OSINT)
+
 </p>
 
-### ⚙️ DevOps & CI/CD
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/>
-  <img src="https://skillicons.dev/icons?i=ansible" />
-  <img src="https://skillicons.dev/icons?i=githubactions" />
-</p>
-
-### 📂 Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
-
-### 🌐 Web Server
-<p>
-  <img src="https://skillicons.dev/icons?i=nginx" />
-  <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="48"/>
-</p>
-
-### 📊 Monitoring
-<p>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="48"/>
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🛡️ Cyber Security
-- Kali Linux
-- Nessus
-- Nmap
-- Sherlock (OSINT)
-
----
-
+```
 ## 💼 Experience
 
 ### 🚀 DevOps Intern | TechnoHacks EduTech
