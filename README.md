@@ -1,96 +1,90 @@
-<h1 align="center">Hi 👋, I'm Pratiksha Chavan</h1>
-<h3 align="center">🚀 DevOps Engineer | Linux Administrator | AWS | Docker | Kubernetes | CI/CD | Automation</h3>
+# Hi 👋, I'm **Pratiksha Chavan**
 
-🌍 Thane, Maharashtra  
-📧 **pratikshachavan2123@gmail.com**  
-🔗 **LinkedIn:** chavanpratiksha  
-💻 **GitHub:** PRATIKSH2  
+### 🚀 DevOps Engineer | Linux Administrator | AWS | Docker | Kubernetes | CI/CD | Automation
 
----
-
-### 🚀 About Me
-💡 Passionate DevOps Engineer with hands-on experience in Linux Administration, CI/CD, Docker, Kubernetes, AWS, Shell Scripting, and Monitoring.
-
-I enjoy automating infrastructure, improving deployment pipelines, solving real-world system challenges, and continuously learning cloud-native technologies.
+📍 **Thane, Maharashtra, India**
+📧 **[pratikshachavan2123@gmail.com](mailto:pratikshachavan2123@gmail.com)**
+🔗 **LinkedIn:** https://www.linkedin.com/in/chavanpratiksha
+💻 **GitHub:** https://github.com/PRATIKSH2
 
 ---
 
-```html
-```md
-## 🛠️ Languages & Tools
+# 🚀 About Me
+
+💡 Passionate DevOps Engineer with hands-on experience in **Linux Administration, AWS, Docker, Kubernetes, Jenkins, CI/CD Pipelines, Shell Scripting, Git, GitHub, Monitoring, and Automation.**
+
+I enjoy automating infrastructure, improving deployment pipelines, solving real-world system challenges, and continuously learning cloud-native technologies. My goal is to build scalable, reliable, and secure systems while following DevOps best practices.
+
+---
+
+# 🛠️ Languages & Tools
 
 ### 🐧 Operating System
+
 <p>
 <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
----
-
 ### 💻 Programming & Scripting
+
 <p>
 <img src="https://skillicons.dev/icons?i=bash" />
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
----
-
 ### ☁️ Cloud
+
 <p>
 <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
----
-
 ### ⚙️ DevOps & CI/CD
+
 <p>
 <img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=kubernetes" />
-<img src="https://skillicons.dev/icons?i=jenkins" />
-<img src="https://skillicons.dev/icons?i=terraform" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/>
 <img src="https://skillicons.dev/icons?i=ansible" />
 <img src="https://skillicons.dev/icons?i=githubactions" />
 </p>
 
----
-
 ### 📂 Version Control
+
 <p>
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
----
-
 ### 🌐 Web Server
+
 <p>
 <img src="https://skillicons.dev/icons?i=nginx" />
 <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="48"/>
 </p>
 
----
-
 ### 📊 Monitoring
+
 <p>
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="48"/>
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="48"/>
 </p>
 
----
-
 ### 🗄️ Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
----
-
 ### 🛡️ Cyber Security
-<p>
-Kali Linux • Nessus • Nmap • Sherlock (OSINT)
-</p>
-```
-```
+
+* Kali Linux
+* Nessus
+* Nmap
+* Sherlock (OSINT)
+
+---
 ---
 
 ## 💼 Experience
