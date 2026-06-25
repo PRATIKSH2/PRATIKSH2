@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Chavan</h1>
 <h3 align="center">🚀 DevOps Engineer | Linux Administrator | AWS | Docker | Kubernetes | CI/CD | Automation</h3>
 
-🌍 Pune, Maharashtra  
+🌍 Thane, Maharashtra  
 📧 **pratikshachavan2123@gmail.com**  
 🔗 **LinkedIn:** chavanpratiksha  
 💻 **GitHub:** PRATIKSH2  
@@ -15,30 +15,59 @@ I enjoy automating infrastructure, improving deployment pipelines, solving real-
 
 ---
 
+```html
 ## 🛠️ Languages & Tools
 
 <p align="left">
 
-<!-- DevOps -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<!-- ================= Operating System ================= -->
 
-<!-- Cloud / Monitoring -->
-<img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/inu13uutb91inum7aijcsp19qc.jpg" width="70" height="70"/>
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
 
-<!-- Linux / Automation -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="45" height="45"/>
+<!-- ================= Programming & Scripting ================= -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+<img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
+
+<!-- ================= Cloud ================= -->
+
+<img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
+
+<!-- ================= DevOps & CI/CD ================= -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
+<img src="https://skillicons.dev/icons?i=ansible" width="45" height="45" alt="Ansible"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/>
+
+<!-- ================= Version Control ================= -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+
+<!-- ================= Web Servers ================= -->
+
+<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="45" height="45" alt="Nginx"/>
+<img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="45" height="45" alt="Tomcat"/>
+
+<!-- ================= Monitoring ================= -->
+
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="45" height="45" alt="Prometheus"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45" height="45" alt="Grafana"/>
+
+<!-- ================= Database ================= -->
+
+<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
+
+<!-- ================= Cyber Security ================= -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="45" height="45" alt="Kali Linux"/>
 
 </p>
-
+```
 ---
 
 ## 💼 Experience
