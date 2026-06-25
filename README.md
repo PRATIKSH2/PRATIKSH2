@@ -1,45 +1,160 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,27,30&text=Pratiksha%20Chavan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20|%20Linux%20Administrator%20|%20AWS%20|%20Docker%20|%20Kubernetes%20|%20CI/CD%20|%20Automation&descAlignY=58&descSize=22"/>
-</p>
+```markdown
+# Hi 👋, I'm **Pratiksha Chavan**
 
-<h1 align="center">Hi 👋, I'm Pratiksha Chavan</h1>
+### 🚀 DevOps Engineer | Linux Administrator | AWS | Docker | Kubernetes | CI/CD | Automation
 
-<h3 align="center">
-🚀 DevOps Engineer • Linux Administrator • AWS • Docker • Kubernetes • CI/CD
-</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/chavanpratiksha">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pratikshachavan2123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/PRATIKSH2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=PRATIKSH2&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+📍 **Thane, Maharashtra, India**  
+📧 **pratikshachavan2123@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/chavanpratiksha  
+💻 **GitHub:** https://github.com/PRATIKSH2  
 
 ---
 
 # 🚀 About Me
 
-💡 Passionate DevOps Engineer with hands-on experience in:
+💡 Passionate DevOps Engineer with hands-on experience in **Linux Administration, Docker, Kubernetes, AWS, Jenkins, CI/CD Pipelines, Shell Scripting, Git, GitHub, Monitoring, and Automation.**
 
-- 🐧 Linux Administration
-- ☁️ AWS Cloud
-- 🐳 Docker
-- ☸️ Kubernetes
-- ⚙️ Jenkins CI/CD
-- 📊 Prometheus & Grafana
-- 🔧 Shell Scripting
-- 🌐 Git & GitHub
-- 🛡️ Basic Cyber Security
+I enjoy automating infrastructure, improving deployment pipelines, solving real-world system challenges, and continuously learning cloud-native technologies.
 
-I enjoy automating infrastructure, improving deployment pipelines, solving production issues, and continuously learning cloud-native technologies.
+---
 
+# 🛠️ Languages & Tools
+
+## 🐧 Operating System
+
+- Linux (Ubuntu)
+
+## 💻 Programming & Scripting
+
+- Bash
+- Java
+- Python
+
+## ☁️ Cloud
+
+- AWS (EC2, IAM, S3)
+
+## ⚙️ DevOps & CI/CD
+
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- Ansible
+- GitHub Actions
+
+## 📂 Version Control
+
+- Git
+- GitHub
+
+## 🌐 Web Servers
+
+- Nginx
+- Apache Tomcat
+
+## 📊 Monitoring
+
+- Prometheus
+- Grafana
+
+## 🗄️ Database
+
+- MySQL
+
+## 🛡️ Cyber Security
+
+- Kali Linux
+- Nessus
+- Nmap
+- Sherlock (OSINT)
+
+---
+
+# 💼 Experience
+
+## 🚀 DevOps Intern — TechnoHacks EduTech *(Oct 2025 – Nov 2025)*
+
+- Automated CI/CD pipelines using Jenkins, Maven & Ant.
+- Implemented monitoring using Prometheus & Grafana.
+- Worked with Linux Administration and deployment automation.
+
+## 💻 System & DevOps Engineer Intern — Empire Softech *(Feb 2026 – Jun 2026)*
+
+- Managed Linux-based server environments.
+- Worked with Docker containers and Git/GitHub.
+- Assisted in application deployment and monitoring.
+- Maintained deployment documentation.
+- Supported infrastructure automation and DevOps practices.
+
+---
+
+# 🔧 Featured Projects
+
+## 📊 Spring Boot Application Monitoring
+
+- Built monitoring dashboards using Prometheus & Grafana.
+- Monitored JVM metrics and application performance.
+
+## ⚙️ Automated CI/CD Pipeline
+
+- Designed CI/CD pipeline using Jenkins, Maven & Ant.
+- Automated build, test and deployment process.
+
+## 🛡️ Backup & Restore Automation
+
+- Automated backups using Cron Jobs, Shell Scripting & SSH.
+
+## 👤 Real-Time Linux User Management
+
+- Automated user creation and management using Shell Scripts.
+
+---
+
+# 🎓 Education
+
+## 🎓 Master of Computer Applications (MCA)
+
+**Savitribai Phule Pune University**  
+2023 – 2025
+
+## 🎓 Bachelor of Science (Computer Science)
+
+**Dr. Babasaheb Ambedkar Marathwada University**  
+2020 – 2023
+
+---
+
+# 📜 Certifications
+
+- ☁️ AWS Cloud Practitioner Essentials
+- 🐧 Linux Server Administration
+- 🛡️ Ethical Hacking for Beginners
+- 💳 Mastercard Cybersecurity Job Simulation
+- 🏦 JPMorgan Chase Software Engineering Job Simulation
+- 💻 Linux Crash Course for Beginners
+- ⌨️ Introductory Linux Command Line
+
+---
+
+# 🌱 Currently Learning
+
+- Terraform
+- GitHub Actions
+- DevSecOps
+- Kubernetes Security
+- Cloud Security
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to:
+
+- 🚀 DevOps Opportunities
+- 💼 Full-Time Roles
+- 🤝 Open Source Collaboration
+- 📚 Learning & Networking
+
+⭐ **Thanks for visiting my profile! Feel free to connect and collaborate.**
+```
