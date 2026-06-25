@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Pratiksha Chavan</h1>
 
 <h3 align="center">
@@ -34,5 +34,4 @@ Entry-level DevOps Engineer with hands-on experience in **Linux Administration, 
 I enjoy building reliable systems, automating repetitive work, and continuously learning modern DevOps practices.
 
 ---
-```
 
