@@ -34,7 +34,7 @@ I enjoy building reliable systems, automating repetitive work, and continuously 
 ---
 
 
-```html
+html
 ## 🛠️ Languages & Tools
 
 <p align="center">
