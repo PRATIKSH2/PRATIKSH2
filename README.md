@@ -43,20 +43,6 @@ html
 
 </p>
 
-<p align="center">
-
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="45"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45"/>
-
-</p>
-
-<p align="center">
-
-🛡️ <b>Cyber Security:</b> Kali Linux • Nessus • Nmap • Sherlock (OSINT)
-
-</p>
-
 ```
 ## 💼 Experience
 
