@@ -43,7 +43,7 @@ html
 
 </p>
 
-```
+
 ## 💼 Experience
 
 ### 🚀 DevOps Intern | TechnoHacks EduTech
