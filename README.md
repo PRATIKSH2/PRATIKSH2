@@ -1,160 +1,38 @@
-```markdown
-# Hi 👋, I'm **Pratiksha Chavan**
+```md
+<h1 align="center">Hi 👋, I'm Pratiksha Chavan</h1>
 
-### 🚀 DevOps Engineer | Linux Administrator | AWS | Docker | Kubernetes | CI/CD | Automation
+<h3 align="center">
+🚀 Aspiring DevOps Engineer | Linux • Automation • CI/CD • Cloud
+</h3>
 
-📍 **Thane, Maharashtra, India**  
-📧 **pratikshachavan2123@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/chavanpratiksha  
-💻 **GitHub:** https://github.com/PRATIKSH2  
+<p align="center">
 
----
+📍 Pune, Maharashtra &nbsp; • &nbsp;
+📧 <a href="mailto:pratikshachavan2123@gmail.com">pratikshachavan2123@gmail.com</a>
 
-# 🚀 About Me
+</p>
 
-💡 Passionate DevOps Engineer with hands-on experience in **Linux Administration, Docker, Kubernetes, AWS, Jenkins, CI/CD Pipelines, Shell Scripting, Git, GitHub, Monitoring, and Automation.**
+<p align="center">
+<a href="https://www.linkedin.com/in/chavanpratiksha">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-I enjoy automating infrastructure, improving deployment pipelines, solving real-world system challenges, and continuously learning cloud-native technologies.
+<a href="https://github.com/PRATIKSH2">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=PRATIKSH2&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 
-# 🛠️ Languages & Tools
-
-## 🐧 Operating System
-
-- Linux (Ubuntu)
-
-## 💻 Programming & Scripting
-
-- Bash
-- Java
-- Python
-
-## ☁️ Cloud
-
-- AWS (EC2, IAM, S3)
-
-## ⚙️ DevOps & CI/CD
-
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
-- Ansible
-- GitHub Actions
-
-## 📂 Version Control
-
-- Git
-- GitHub
-
-## 🌐 Web Servers
-
-- Nginx
-- Apache Tomcat
-
-## 📊 Monitoring
-
-- Prometheus
-- Grafana
-
-## 🗄️ Database
-
-- MySQL
-
-## 🛡️ Cyber Security
-
-- Kali Linux
-- Nessus
-- Nmap
-- Sherlock (OSINT)
+</p>
 
 ---
 
-# 💼 Experience
+## 🚀 About Me
 
-## 🚀 DevOps Intern — TechnoHacks EduTech *(Oct 2025 – Nov 2025)*
+Entry-level DevOps Engineer with hands-on experience in **Linux Administration, CI/CD Pipelines, Automation, Docker, Kubernetes, AWS, and System Monitoring**.
 
-- Automated CI/CD pipelines using Jenkins, Maven & Ant.
-- Implemented monitoring using Prometheus & Grafana.
-- Worked with Linux Administration and deployment automation.
-
-## 💻 System & DevOps Engineer Intern — Empire Softech *(Feb 2026 – Jun 2026)*
-
-- Managed Linux-based server environments.
-- Worked with Docker containers and Git/GitHub.
-- Assisted in application deployment and monitoring.
-- Maintained deployment documentation.
-- Supported infrastructure automation and DevOps practices.
+I enjoy building reliable systems, automating repetitive work, and continuously learning modern DevOps practices.
 
 ---
-
-# 🔧 Featured Projects
-
-## 📊 Spring Boot Application Monitoring
-
-- Built monitoring dashboards using Prometheus & Grafana.
-- Monitored JVM metrics and application performance.
-
-## ⚙️ Automated CI/CD Pipeline
-
-- Designed CI/CD pipeline using Jenkins, Maven & Ant.
-- Automated build, test and deployment process.
-
-## 🛡️ Backup & Restore Automation
-
-- Automated backups using Cron Jobs, Shell Scripting & SSH.
-
-## 👤 Real-Time Linux User Management
-
-- Automated user creation and management using Shell Scripts.
-
----
-
-# 🎓 Education
-
-## 🎓 Master of Computer Applications (MCA)
-
-**Savitribai Phule Pune University**  
-2023 – 2025
-
-## 🎓 Bachelor of Science (Computer Science)
-
-**Dr. Babasaheb Ambedkar Marathwada University**  
-2020 – 2023
-
----
-
-# 📜 Certifications
-
-- ☁️ AWS Cloud Practitioner Essentials
-- 🐧 Linux Server Administration
-- 🛡️ Ethical Hacking for Beginners
-- 💳 Mastercard Cybersecurity Job Simulation
-- 🏦 JPMorgan Chase Software Engineering Job Simulation
-- 💻 Linux Crash Course for Beginners
-- ⌨️ Introductory Linux Command Line
-
----
-
-# 🌱 Currently Learning
-
-- Terraform
-- GitHub Actions
-- DevSecOps
-- Kubernetes Security
-- Cloud Security
-
----
-
-# 🤝 Let's Connect
-
-I'm always open to:
-
-- 🚀 DevOps Opportunities
-- 💼 Full-Time Roles
-- 🤝 Open Source Collaboration
-- 📚 Learning & Networking
-
-⭐ **Thanks for visiting my profile! Feel free to connect and collaborate.**
 ```
+
