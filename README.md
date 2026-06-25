@@ -7,10 +7,10 @@
 
 <p align="center">
 
-📍 Pune, Maharashtra &nbsp; • &nbsp;
+📍 Thane, Maharashtra 
 <a href="mailto:pratikshachavan2123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>>
+</a>
 
 </p>
 
