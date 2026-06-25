@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Chavan</h1>
-<h3 align="center">Aspiring DevOps Engineer | Linux • Automation • CI/CD • Cloud</h3>
+<h3 align="center">🚀 DevOps Engineer | Linux Administrator | AWS | Docker | Kubernetes | CI/CD | Automation</h3>
 
 🌍 Pune, Maharashtra  
 📧 **pratikshachavan2123@gmail.com**  
@@ -9,8 +9,9 @@
 ---
 
 ### 🚀 About Me
-Entry-level DevOps Engineer with hands-on experience in Linux administration, CI/CD pipelines, automation, and system monitoring.  
-I enjoy building reliable systems, automating repetitive work, and learning modern DevOps practices.
+💡 Passionate DevOps Engineer with hands-on experience in Linux Administration, CI/CD, Docker, Kubernetes, AWS, Shell Scripting, and Monitoring.
+
+I enjoy automating infrastructure, improving deployment pipelines, solving real-world system challenges, and continuously learning cloud-native technologies.
 
 ---
 
@@ -66,11 +67,14 @@ Worked on an Alumni Association Platform (HTML, CSS, JS, PHP, MySQL).
 ---
 
 ## 📜 Certifications
-- AWS Cloud Practitioner Essentials  
-- Linux Server Administration  
-- Linux Crash Course for Beginners  
-- Introductory Linux Command Line  
 
+☁ AWS Cloud Practitioner Essentials
+🐧 Linux Server Administration
+🛡 Ethical Hacking for Beginners
+💳 Mastercard Cybersecurity Job Simulation
+🏦 JPMorgan Chase Software Engineering Job Simulation
+💻 Linux Crash Course for Beginners
+⌨ Introductory Linux Command Line
 ---
 
 ### 🤝 Let’s Connect
