@@ -95,7 +95,7 @@ I enjoy building reliable systems, automating repetitive work, and continuously 
 - Sherlock (OSINT)
 
 ---
-```md
+
 ## 💼 Experience
 
 ### 🚀 DevOps Intern | TechnoHacks EduTech
@@ -117,4 +117,3 @@ I enjoy building reliable systems, automating repetitive work, and continuously 
 - Maintained deployment documentation and operational tasks
 
 ---
-```
