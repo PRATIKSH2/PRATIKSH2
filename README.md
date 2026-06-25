@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Chavan</h1>
 
 <h3 align="center">
-🚀 DevOps Engineer | Linux • Automation • CI/CD • Cloud
+🚀 Aspiring DevOps Engineer | Linux • Automation • CI/CD • Cloud 
 </h3>
  <h4 align="center">📍Thane , Maharashra </h4>
 
