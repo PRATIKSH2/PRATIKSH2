@@ -16,57 +16,80 @@ I enjoy automating infrastructure, improving deployment pipelines, solving real-
 ---
 
 ```html
+```md
 ## 🛠️ Languages & Tools
 
-<p align="left">
-
-<!-- ================= Operating System ================= -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-
-<!-- ================= Programming & Scripting ================= -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
-<img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
-<img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
-
-<!-- ================= Cloud ================= -->
-
-<img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
-
-<!-- ================= DevOps & CI/CD ================= -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
-<img src="https://skillicons.dev/icons?i=ansible" width="45" height="45" alt="Ansible"/>
-<img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/>
-
-<!-- ================= Version Control ================= -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-
-<!-- ================= Web Servers ================= -->
-
-<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="45" height="45" alt="Nginx"/>
-<img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="45" height="45" alt="Tomcat"/>
-
-<!-- ================= Monitoring ================= -->
-
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="45" height="45" alt="Prometheus"/>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45" height="45" alt="Grafana"/>
-
-<!-- ================= Database ================= -->
-
-<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
-
-<!-- ================= Cyber Security ================= -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="45" height="45" alt="Kali Linux"/>
-
+### 🐧 Operating System
+<p>
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
+
+---
+
+### 💻 Programming & Scripting
+<p>
+<img src="https://skillicons.dev/icons?i=bash" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+### ☁️ Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+---
+
+### ⚙️ DevOps & CI/CD
+<p>
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=jenkins" />
+<img src="https://skillicons.dev/icons?i=terraform" />
+<img src="https://skillicons.dev/icons?i=ansible" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
+</p>
+
+---
+
+### 📂 Version Control
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+---
+
+### 🌐 Web Server
+<p>
+<img src="https://skillicons.dev/icons?i=nginx" />
+<img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="48"/>
+</p>
+
+---
+
+### 📊 Monitoring
+<p>
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="48"/>
+</p>
+
+---
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### 🛡️ Cyber Security
+<p>
+Kali Linux • Nessus • Nmap • Sherlock (OSINT)
+</p>
+```
 ```
 ---
 
