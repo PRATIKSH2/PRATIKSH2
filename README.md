@@ -6,8 +6,7 @@
 </h3>
 <p align="center">
 
-📍 <b>Thane, Maharashtra</b>
-
+📍 <h4 align="center">Thane , Maharashra </h4>
 </p>
 
 <p align="center">
@@ -27,7 +26,7 @@
 <img src="https://komarev.com/ghpvc/?username=PRATIKSH2&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
----
+
 
 ## 🚀 About Me
 
