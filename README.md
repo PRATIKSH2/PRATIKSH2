@@ -117,3 +117,90 @@ I enjoy building reliable systems, automating repetitive work, and continuously 
 - Maintained deployment documentation and operational tasks
 
 ---
+
+## 🔧 Featured Projects
+
+### 📊 Spring Boot Application Monitoring
+**Tech Stack:** Spring Boot • Prometheus • Grafana
+
+- Built real-time monitoring dashboards using Prometheus & Grafana
+- Monitored JVM metrics and application performance
+- Visualized system health through Grafana dashboards
+
+---
+
+### ⚙️ Automated CI/CD Pipeline
+**Tech Stack:** Jenkins • Maven • Ant • GitHub
+
+- Automated build, test, and deployment process
+- Integrated GitHub with Jenkins for Continuous Integration
+- Reduced manual deployment effort using CI/CD pipeline
+
+---
+
+### 🛡️ Backup & Restore Automation
+**Tech Stack:** Linux • Shell Scripting • Cron • SSH
+
+- Automated scheduled backups using Cron Jobs
+- Restored files securely through Shell Scripts & SSH
+- Improved backup reliability with automation
+
+---
+
+### 👤 Real-Time Linux User Management
+**Tech Stack:** Linux • Bash • Shell Scripting
+
+- Automated user creation and deletion
+- Implemented password policies and user management
+- Simplified Linux administration using Shell Scripts
+
+---
+
+## 🎓 Education
+
+### 🎓 Master of Computer Applications (MCA)
+**Savitribai Phule Pune University**  
+📅 2023 – 2025
+
+### 🎓 Bachelor of Science (Computer Science)
+**Dr. Babasaheb Ambedkar Marathwada University**  
+📅 2020 – 2023
+
+---
+
+## 📜 Certifications
+
+- ☁️ AWS Cloud Practitioner Essentials
+- 🐧 Linux Server Administration
+- 🛡️ Ethical Hacking for Beginners
+- 💳 Mastercard Cybersecurity Job Simulation
+- 🏦 JPMorgan Chase Software Engineering Job Simulation
+- 💻 Linux Crash Course for Beginners
+- ⌨️ Introductory Linux Command Line
+
+---
+
+## 🌱 Currently Learning
+
+- ☁️ AWS Cloud Services
+- ⚙️ Terraform
+- 🚀 GitHub Actions
+- ☸️ Kubernetes
+- 🔐 DevSecOps
+
+---
+
+## 🤝 Let's Connect
+
+💼 I'm open to:
+
+- 🚀 DevOps Engineer Opportunities
+- 💼 Full-Time Roles
+- 🤝 Open Source Collaboration
+- 📚 Learning & Networking
+
+📧 **Email:** **pratikshachavan2123@gmail.com**
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/chavanpratiksha
+
+⭐ **Thanks for visiting my GitHub Profile! If you like my work, feel free to connect and collaborate.**
