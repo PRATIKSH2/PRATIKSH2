@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pratiksha%20Chavan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Linux%20|%20AWS%20|%20Docker%20|%20Kubernetes&descAlignY=58"/>
 </p>
@@ -44,4 +43,3 @@ DevOps Engineer • Linux Administrator • AWS • Docker • Kubernetes • CI
 I enjoy automating infrastructure, improving deployment pipelines, solving production issues, and learning modern cloud-native technologies.
 
 ---
-```
