@@ -95,3 +95,26 @@ I enjoy building reliable systems, automating repetitive work, and continuously 
 - Sherlock (OSINT)
 
 ---
+```md
+## 💼 Experience
+
+### 🚀 DevOps Intern | TechnoHacks EduTech
+📅 **Oct 2025 – Nov 2025**
+
+- Automated **CI/CD pipelines** using **Jenkins, Maven & Ant**
+- Implemented **Prometheus & Grafana** for system monitoring
+- Gained hands-on experience with Linux administration and deployment automation
+
+---
+
+### 💻 System & DevOps Engineer Intern | Empire Softech
+📅 **Feb 2026 – Jun 2026**
+
+- Managed Linux-based server environments
+- Worked with **Docker**, **Git**, and **GitHub**
+- Assisted in application deployment and monitoring
+- Supported infrastructure automation and routine maintenance
+- Maintained deployment documentation and operational tasks
+
+---
+```
