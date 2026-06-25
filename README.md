@@ -44,7 +44,7 @@ html
 
 ## 💼 Experience
 
-### 💻 System & DevOps Engineer Intern | Empire Softech
+### 💻 System & DevOps Engineer Intern | Empire SoftTech
 📅 **Feb 2026 – Jun 2026**
 
 - Managed Linux-based server environments
