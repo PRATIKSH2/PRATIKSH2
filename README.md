@@ -4,10 +4,8 @@
 <h3 align="center">
 🚀 Aspiring DevOps Engineer | Linux • Automation • CI/CD • Cloud
 </h3>
-<p align="center">
 
 📍 <h4 align="center">Thane , Maharashra </h4>
-</p>
 
 <p align="center">
 
